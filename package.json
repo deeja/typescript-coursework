@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Code from the understanding typescript course on Udemy",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeja/typescript-coursework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deeja/typescript-coursework/issues"
+  },
+  "homepage": "https://github.com/deeja/typescript-coursework#readme"
+}
