@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Code from the understanding typescript course on Udemy",
   "main": "index.js",
-  "dependencies": {
-    "lite-server": "^2.5.3"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jquery": "^3.3.29"
   },
