@@ -1,7 +1,8 @@
 # Third Party Library import options
 
 ## Import without compiler integration
-```
+In the TS file:
+```typescript
 declare var $:any
 ```
 This sets the `$` to a type of any, and anything can be called against it, whether it is valid or not.

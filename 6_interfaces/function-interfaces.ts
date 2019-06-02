@@ -9,6 +9,4 @@ namespace InterfaceFunctionTypes{
         return num1 * num2
     }
     let returnedValue: number = myFunctionType(1,2);
-
-
 }
