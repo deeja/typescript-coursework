@@ -1,5 +1,5 @@
 
-// define the delegate - variable and type
+// define the delegate (method) type - variable and type
 let  addTwoStringsDelegate : (firstString: string, secondString: string) => string;
 
 // inferred return value

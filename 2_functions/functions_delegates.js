@@ -1,5 +1,5 @@
 "use strict";
-// define the delegate - variable and type
+// define the delegate (method) type - variable and type
 var addTwoStringsDelegate;
 // inferred return value
 function addTwoStringsFirst(firstString, secondString) {
